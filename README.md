@@ -36,7 +36,16 @@
  
  <hr />
  
+ To install, key in the following command:
+ 
  <img width="829" alt="Screen Shot 2021-03-21 at 9 24 05 PM" src="https://user-images.githubusercontent.com/67757549/111932732-10fcf580-8a8c-11eb-85cf-a1078e345237.png">
+ 
+ <hr />
+ 
+ ### Usage
+ 
+ <hr />
+ 
 
 
  
