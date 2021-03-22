@@ -1,4 +1,6 @@
 ### React: User Directory
+<br />
+View the Directory Here: <a target="_blank" href="https://pheno-cat.github.io/user_Directory/">User Directory</a>
 
 <hr />
 
@@ -48,6 +50,8 @@
  
  To deploy, key in the following command:
  
+ <img width="826" alt="Screen Shot 2021-03-21 at 9 24 17 PM" src="https://user-images.githubusercontent.com/67757549/111933693-fb88cb00-8a8d-11eb-866a-ff00cc4f5eb9.png">
+ 
  <hr />
  
  ### Credits
@@ -77,7 +81,7 @@
  </ul>
  
  
-View the Directory Here: <a target="_blank" href="https://pheno-cat.github.io/user_Directory/">User Directory</a>
+
  
  
 
