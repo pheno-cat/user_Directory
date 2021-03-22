@@ -20,11 +20,25 @@
   <li>Contributing</li>
  </ul>
  
+ <hr />
+ 
  ### Description
  
  <hr />
  
- Link to User Directory: <a target="_blank" href="https://pheno-cat.github.io/user_Directory/">User Directory</a>
+ As a user, I want to be able to view my entire employee directory at once so taht I have quick access to their information.  
+ <br />
+ An employee or manager would benefit greatly from being able to view non-sensitive data about other employees.  It would be particularly helpful to be able to filter employees by name.
+ 
+ <hr />
+ 
+ ### Installation
+ 
+ <hr />
+ 
+ 
+ 
+ View the Directory Here: <a target="_blank" href="https://pheno-cat.github.io/user_Directory/">User Directory</a>
  
  
 
