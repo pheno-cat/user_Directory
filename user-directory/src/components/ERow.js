@@ -12,7 +12,7 @@ function ERow(props) {
       <td>
         {props.employee.location.city}, {props.employee.location.state}
       </td>
-      <td>{props.employee.emiail}</td>
+      <td>{props.employee.email}</td>
       <td>{props.employee.phone}</td>
     </tr>
   );
