@@ -39,20 +39,44 @@
  To install, key in the following command:
  
 
- 
  <hr />
  
  ### Usage
  
  <hr />
  
-
-
+ To deploy, key in the following command:
+ 
+ <hr />
+ 
+ ### Credits
+ 
+ <hr />
+ 
+ <ul>
+  <li><a target="_blank" href="https://reactjs.org">React</a></li>
+ </ul>
+ 
+ <hr />
+ 
+ ### License
+ 
+ <hr />
+ 
+ MIT
+ 
+ <hr />
+ 
+ ### Contributing
+ 
+ <hr />
+ 
+ <ul>
+  <li><a target="_blank" href="https://github.com/pheno-cat">pheno-cat</a></li>
+ </ul>
  
  
- 
- 
- View the Directory Here: <a target="_blank" href="https://pheno-cat.github.io/user_Directory/">User Directory</a>
+View the Directory Here: <a target="_blank" href="https://pheno-cat.github.io/user_Directory/">User Directory</a>
  
  
 
