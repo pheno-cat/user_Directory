@@ -1,6 +1,6 @@
 ### React: User Directory
 <br />
-View the Directory Here: <a target="_blank" href="https://pheno-cat.github.io/user_Directory/">User Directory</a>
+View the application here: <a target="_blank" href="https://pheno-cat.github.io/user_Directory/">User Directory</a>
 
 <hr />
 
